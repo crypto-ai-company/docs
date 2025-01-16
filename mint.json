@@ -36,7 +36,12 @@
     },
     {
       "group": "Key Metrics, Ratios & Indicators",
-      "pages": ["key-metrics-ratios-and-indicators"]
+      "pages": [
+        "key-metrics-ratios-and-indicators",
+        "metrics",
+        "ratios",
+        "indicators"
+      ]
     },
     {
       "group": "Risk Management",

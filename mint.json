@@ -24,7 +24,10 @@
         "protocol",
         "data-sources",
         "automated-analysts",
+        "analyst-actions",
         "key-metrics-ratios-and-indicators",
+        "risk-management",
+        "portfolio-management",
         "faqs"
       ]
     }

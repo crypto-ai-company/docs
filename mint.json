@@ -18,18 +18,37 @@
   "navigation": [
     {
       "group": "AlphaGenesis Fund",
+      "pages": ["introduction", "how-it-works"]
+    },
+    {
+      "group": "Protocol",
+      "pages": ["protocol", "data-sources"]
+    },
+    {
+      "group": "Automated Analysts",
       "pages": [
-        "introduction",
-        "how-it-works",
-        "protocol",
-        "data-sources",
         "automated-analysts",
-        "analyst-actions",
-        "key-metrics-ratios-and-indicators",
-        "risk-management",
-        "portfolio-management",
-        "faqs"
+        "automated-analysts/valuations-analyst",
+        "automated-analysts/technicals-analyst",
+        "automated-analysts/sentiments-analyst",
+        "automated-analysts/fundamentals-analyst"
       ]
+    },
+    {
+      "group": "Key Metrics, Ratios & Indicators",
+      "pages": ["key-metrics-ratios-and-indicators"]
+    },
+    {
+      "group": "Risk Management",
+      "pages": ["risk-management"]
+    },
+    {
+      "group": "Portfolio Management",
+      "pages": ["portfolio-management"]
+    },
+    {
+      "group": "FAQs",
+      "pages": ["faqs"]
     }
   ]
 }

@@ -17,8 +17,16 @@
   },
   "navigation": [
     {
-      "group": "Documentation",
-      "pages": ["introduction"]
+      "group": "AlphaGenesis Fund",
+      "pages": [
+        "introduction",
+        "how-it-works",
+        "protocol",
+        "data-sources",
+        "automated-analysts",
+        "key-metrics-ratios-and-indicators",
+        "faqs"
+      ]
     }
   ]
 }
